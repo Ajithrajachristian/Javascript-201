@@ -1,0 +1,45 @@
+<style>
+      .press{
+          background-color: black;
+          color: yellow;
+          padding: 10px;
+          font-size: 20px;
+          position: relative;
+          border : 1px solid black;
+          left: 650px;
+          top: 10px;
+      }
+
+      strong{
+          color: red;
+          font-size: 24px;
+           text-decoration: underline;
+           
+      }
+
+      .box {
+        width: 500px;
+        height: 500px;
+      
+        position:relative;
+        left: 630px;
+        top : 10px;
+      }
+
+      body{
+          background-color: grey;
+
+      }
+
+      .header{
+        text-align: center;
+        color : darkblue;
+        font-size: 50px;
+      }
+
+      .image {
+        width : 200px;
+        height: 200px;
+       
+      }
+  </style>
