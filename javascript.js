@@ -1,4 +1,4 @@
-<script>
+
 
      const name = document.getElementById("name")
           
@@ -63,4 +63,4 @@
     })
       })
     
-   </script>
+   
